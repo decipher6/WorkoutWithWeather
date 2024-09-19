@@ -31,5 +31,5 @@ This project combines weather data and fitness recommendations to help users dec
    ''' Replace the value of city variable on the code '''
 3. **Run the code to get your results**
 
-
+### Author: Yaghyesh Ghimire
    
